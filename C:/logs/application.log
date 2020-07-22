@@ -1,0 +1,72 @@
+2020-07-22T18:36:28.077+0530 INFO No active profile set, falling back to default profiles: default
+2020-07-22T18:36:34.851+0530 INFO Started ECommerceApplication in 7.266 seconds (JVM running for 13.971)
+2020-07-22T18:37:15.857+0530 INFO [REMOVE FROM CART] [Success] for user : rohyt
+2020-07-22T18:37:16.004+0530 INFO [ADD TO CART] [Success] for user : rohyt
+2020-07-22T18:37:16.025+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:37:16.026+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:37:16.288+0530 INFO [CREATE USER] [Success] for user : test
+2020-07-22T18:37:16.460+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T18:37:16.471+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T18:37:16.479+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
+2020-07-22T18:39:49.795+0530 INFO [REMOVE FROM CART] [Success] for user : rohyt
+2020-07-22T18:39:49.852+0530 INFO [ADD TO CART] [Success] for user : rohyt
+2020-07-22T18:39:49.862+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:39:49.864+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:39:49.929+0530 INFO [CREATE USER] [Success] for user : test
+2020-07-22T18:39:50.057+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T18:39:50.074+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T18:39:50.086+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
+2020-07-22T18:42:15.895+0530 INFO [REMOVE FROM CART] [Success] for user : rohyt
+2020-07-22T18:42:16.167+0530 INFO [ADD TO CART] [Success] for user : rohyt
+2020-07-22T18:42:16.188+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:42:16.189+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:42:16.286+0530 INFO [CREATE USER] [Success] for user : test
+2020-07-22T18:42:16.483+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T18:42:16.501+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T18:42:16.564+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
+2020-07-22T18:43:25.848+0530 ERROR [REMOVE FROM CART] [Fail] for user : rohyt, REASON : User not found
+2020-07-22T18:43:25.937+0530 ERROR [ADD TO CART] [Fail] for user : rohyt, REASON : User not found
+2020-07-22T18:43:25.954+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:43:25.956+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:43:26.090+0530 INFO [CREATE USER] [Success] for user : test
+2020-07-22T18:43:26.281+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T18:43:26.289+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T18:43:26.294+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
+2020-07-22T18:52:42.433+0530 ERROR [REMOVE FROM CART] [Fail] for user : rohyt, REASON : User not found
+2020-07-22T18:52:42.501+0530 ERROR [ADD TO CART] [Fail] for user : rohyt, REASON : User not found
+2020-07-22T18:52:42.514+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:52:42.516+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:52:42.633+0530 INFO [CREATE USER] [Success] for user : rohyt
+2020-07-22T18:52:42.802+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T18:52:42.811+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T18:52:42.825+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
+2020-07-22T18:54:19.088+0530 INFO [REMOVE FROM CART] [Success] for user : rohyt
+2020-07-22T18:54:19.139+0530 INFO [ADD TO CART] [Success] for user : rohyt
+2020-07-22T18:54:19.148+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:54:19.148+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T18:54:19.216+0530 INFO [CREATE USER] [Success] for user : test
+2020-07-22T18:54:19.356+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T18:54:19.365+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T18:54:19.372+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
+2020-07-22T19:16:54.331+0530 INFO Starting ECommerceApplication on Rohyt.local with PID 19737 (/Users/rohyt/Downloads/ecomapp-master/target/classes started by rohyt in /Users/rohyt/Downloads/ecomapp-master)
+2020-07-22T19:16:54.342+0530 INFO No active profile set, falling back to default profiles: default
+2020-07-22T19:17:01.549+0530 INFO Started ECommerceApplication in 7.823 seconds (JVM running for 14.974)
+2020-07-22T19:17:34.227+0530 INFO Starting ECommerceApplicationTests on Rohyt.local with PID 19764 (started by rohyt in /Users/rohyt/Downloads/ecomapp-master)
+2020-07-22T19:17:34.233+0530 INFO No active profile set, falling back to default profiles: default
+2020-07-22T19:17:41.510+0530 INFO Started ECommerceApplicationTests in 7.72 seconds (JVM running for 15.885)
+2020-07-22T19:18:00.570+0530 INFO [REMOVE FROM CART] [Success] for user : rohyt
+2020-07-22T19:18:00.614+0530 INFO [ADD TO CART] [Success] for user : rohyt
+2020-07-22T19:18:00.624+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T19:18:00.625+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T19:18:00.685+0530 INFO [CREATE USER] [Success] for user : test
+2020-07-22T19:18:00.808+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T19:18:00.818+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T19:18:00.829+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
+2020-07-22T19:39:14.107+0530 INFO [REMOVE FROM CART] [Success] for user : rohyt
+2020-07-22T19:39:14.161+0530 INFO [ADD TO CART] [Success] for user : rohyt
+2020-07-22T19:39:14.171+0530 ERROR [REMOVE FROM CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T19:39:14.172+0530 ERROR [ADD TO CART] [Fail] for user : invalidUser, REASON : User not found
+2020-07-22T19:39:14.221+0530 INFO [CREATE USER] [Success] for user : test
+2020-07-22T19:39:14.325+0530 INFO [ORDER HISTORY] [Success] for user : rohyt
+2020-07-22T19:39:14.334+0530 INFO [SUBMIT ORDER] [Success] for user : rohyt
+2020-07-22T19:39:14.343+0530 ERROR [SUBMIT ORDER] [Fail] for user : invalid username, REASON : User not found
